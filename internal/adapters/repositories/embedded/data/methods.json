@@ -1,0 +1,117 @@
+[
+  {
+    "id": "turkish",
+    "name": "Turkish",
+    "min_um": 40,
+    "max_um": 220,
+    "aliases": [
+      "turc",
+      "cezve",
+      "ibrik"
+    ]
+  },
+  {
+    "id": "espresso",
+    "name": "Espresso",
+    "min_um": 180,
+    "max_um": 380,
+    "aliases": [
+      "expres"
+    ]
+  },
+  {
+    "id": "moka",
+    "name": "Moka pot",
+    "min_um": 360,
+    "max_um": 660,
+    "aliases": [
+      "moka pot",
+      "italiana",
+      "cafetera italiana",
+      "bialetti"
+    ]
+  },
+  {
+    "id": "v60",
+    "name": "V60",
+    "min_um": 400,
+    "max_um": 700,
+    "aliases": [
+      "hario v60"
+    ]
+  },
+  {
+    "id": "pour_over",
+    "name": "Pour over",
+    "min_um": 410,
+    "max_um": 930,
+    "aliases": [
+      "pourover",
+      "chemex",
+      "kalita",
+      "kalita wave",
+      "origami",
+      "orea",
+      "april",
+      "filter",
+      "filtre"
+    ]
+  },
+  {
+    "id": "aeropress",
+    "name": "AeroPress",
+    "min_um": 320,
+    "max_um": 960,
+    "aliases": []
+  },
+  {
+    "id": "steep_release",
+    "name": "Steep-and-release",
+    "min_um": 450,
+    "max_um": 825,
+    "aliases": [
+      "switch",
+      "hario switch",
+      "clever",
+      "immersion"
+    ]
+  },
+  {
+    "id": "cupping",
+    "name": "Cupping",
+    "min_um": 460,
+    "max_um": 850,
+    "aliases": []
+  },
+  {
+    "id": "filter_machine",
+    "name": "Filter coffee machine",
+    "min_um": 300,
+    "max_um": 900,
+    "aliases": [
+      "batch",
+      "batch brew",
+      "moccamaster",
+      "drip"
+    ]
+  },
+  {
+    "id": "french_press",
+    "name": "French press",
+    "min_um": 690,
+    "max_um": 1300,
+    "aliases": [
+      "cafetiere",
+      "premsa",
+      "premsa francesa",
+      "prensa francesa"
+    ]
+  },
+  {
+    "id": "cold_brew",
+    "name": "Cold brew",
+    "min_um": 800,
+    "max_um": 1400,
+    "aliases": []
+  }
+]
