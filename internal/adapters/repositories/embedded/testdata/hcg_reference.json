@@ -1,0 +1,902 @@
+[
+ {
+  "grinder": "comandante-c40",
+  "method": "espresso",
+  "to": "13",
+  "from": "7"
+ },
+ {
+  "grinder": "comandante-c40",
+  "method": "v60",
+  "to": "25",
+  "from": "15"
+ },
+ {
+  "grinder": "comandante-c40",
+  "method": "pour_over",
+  "to": "34",
+  "from": "16"
+ },
+ {
+  "grinder": "comandante-c40",
+  "method": "aeropress",
+  "to": "35",
+  "from": "12"
+ },
+ {
+  "grinder": "comandante-c40",
+  "method": "french_press",
+  "to": "40",
+  "from": "26"
+ },
+ {
+  "grinder": "comandante-c40-red-clix",
+  "method": "espresso",
+  "to": "27",
+  "from": "14"
+ },
+ {
+  "grinder": "comandante-c40-red-clix",
+  "method": "v60",
+  "to": "51",
+  "from": "30"
+ },
+ {
+  "grinder": "comandante-c40-red-clix",
+  "method": "pour_over",
+  "to": "68",
+  "from": "31"
+ },
+ {
+  "grinder": "comandante-c40-red-clix",
+  "method": "aeropress",
+  "to": "70",
+  "from": "24"
+ },
+ {
+  "grinder": "comandante-c40-red-clix",
+  "method": "french_press",
+  "to": "80",
+  "from": "51"
+ },
+ {
+  "grinder": "1zpresso-j-max",
+  "method": "espresso",
+  "to": "1.5.3",
+  "from": "0.6.9"
+ },
+ {
+  "grinder": "1zpresso-j-max",
+  "method": "v60",
+  "to": "2.8.4",
+  "from": "1.6.2"
+ },
+ {
+  "grinder": "1zpresso-j-max",
+  "method": "pour_over",
+  "to": "3.8.1",
+  "from": "1.6.6"
+ },
+ {
+  "grinder": "1zpresso-j-max",
+  "method": "aeropress",
+  "to": "4.0.3",
+  "from": "1.3.2"
+ },
+ {
+  "grinder": "1zpresso-j-max",
+  "method": "french_press",
+  "to": "5.0.0",
+  "from": "2.8.1"
+ },
+ {
+  "grinder": "1zpresso-j-ultra",
+  "method": "espresso",
+  "to": "1.5.4",
+  "from": "0.7.4"
+ },
+ {
+  "grinder": "1zpresso-j-ultra",
+  "method": "v60",
+  "to": "2.8.4",
+  "from": "1.6.3"
+ },
+ {
+  "grinder": "1zpresso-j-ultra",
+  "method": "pour_over",
+  "to": "3.7.8",
+  "from": "1.6.7"
+ },
+ {
+  "grinder": "1zpresso-j-ultra",
+  "method": "aeropress",
+  "to": "3.9.0",
+  "from": "1.3.1"
+ },
+ {
+  "grinder": "1zpresso-j-ultra",
+  "method": "french_press",
+  "to": "5.0.0",
+  "from": "2.8.1"
+ },
+ {
+  "grinder": "1zpresso-k-ultra",
+  "method": "espresso",
+  "to": "0.5",
+  "from": "0.2.4"
+ },
+ {
+  "grinder": "1zpresso-k-ultra",
+  "method": "v60",
+  "to": "0.9.2",
+  "from": "0.5.3"
+ },
+ {
+  "grinder": "1zpresso-k-max",
+  "method": "espresso",
+  "to": "0.4.7",
+  "from": "0.2.3"
+ },
+ {
+  "grinder": "1zpresso-k-max",
+  "method": "v60",
+  "to": "0.8.7",
+  "from": "0.5.0"
+ },
+ {
+  "grinder": "1zpresso-k-max",
+  "method": "pour_over",
+  "to": "1.2.5",
+  "from": "0.5.1"
+ },
+ {
+  "grinder": "1zpresso-k-max",
+  "method": "aeropress",
+  "to": "1.2.9",
+  "from": "0.4.0"
+ },
+ {
+  "grinder": "1zpresso-k-max",
+  "method": "french_press",
+  "to": "1.7.1",
+  "from": "0.8.6"
+ },
+ {
+  "grinder": "1zpresso-zp6",
+  "method": "v60",
+  "to": "5.1",
+  "from": "1.8"
+ },
+ {
+  "grinder": "1zpresso-zp6",
+  "method": "pour_over",
+  "to": "7.6",
+  "from": "1.9"
+ },
+ {
+  "grinder": "1zpresso-zp6",
+  "method": "aeropress",
+  "to": "8.0",
+  "from": "0.9"
+ },
+ {
+  "grinder": "1zpresso-zp6",
+  "method": "french_press",
+  "to": "9.0",
+  "from": "5.0"
+ },
+ {
+  "grinder": "1zpresso-x-pro",
+  "method": "espresso",
+  "to": "1.1.3",
+  "from": "0.3.5"
+ },
+ {
+  "grinder": "1zpresso-x-pro",
+  "method": "v60",
+  "to": "2.1.5",
+  "from": "1.1.8"
+ },
+ {
+  "grinder": "1zpresso-x-pro",
+  "method": "pour_over",
+  "to": "3.0.0",
+  "from": "1.2.0"
+ },
+ {
+  "grinder": "1zpresso-x-pro",
+  "method": "aeropress",
+  "to": "3.0.5",
+  "from": "1.0.2"
+ },
+ {
+  "grinder": "1zpresso-x-pro",
+  "method": "french_press",
+  "to": "4.0.0",
+  "from": "2.1.4"
+ },
+ {
+  "grinder": "1zpresso-q2",
+  "method": "espresso",
+  "to": "1.1.0",
+  "from": "0.5.1"
+ },
+ {
+  "grinder": "1zpresso-q2",
+  "method": "v60",
+  "to": "2.0.1",
+  "from": "1.2.0"
+ },
+ {
+  "grinder": "1zpresso-q2",
+  "method": "pour_over",
+  "to": "2.7.1",
+  "from": "1.2.1"
+ },
+ {
+  "grinder": "1zpresso-q2",
+  "method": "aeropress",
+  "to": "2.8.0",
+  "from": "0.9.2"
+ },
+ {
+  "grinder": "1zpresso-q2",
+  "method": "french_press",
+  "to": "3.8.0",
+  "from": "2.0.1"
+ },
+ {
+  "grinder": "timemore-c2",
+  "method": "espresso",
+  "to": "12",
+  "from": "6"
+ },
+ {
+  "grinder": "timemore-c2",
+  "method": "v60",
+  "to": "22",
+  "from": "13"
+ },
+ {
+  "grinder": "timemore-c2",
+  "method": "pour_over",
+  "to": "29",
+  "from": "13"
+ },
+ {
+  "grinder": "timemore-c2",
+  "method": "aeropress",
+  "to": "30",
+  "from": "11"
+ },
+ {
+  "grinder": "timemore-c2",
+  "method": "french_press",
+  "to": "30",
+  "from": "22"
+ },
+ {
+  "grinder": "timemore-c3",
+  "method": "espresso",
+  "to": "10",
+  "from": "5"
+ },
+ {
+  "grinder": "timemore-c3",
+  "method": "v60",
+  "to": "18",
+  "from": "11"
+ },
+ {
+  "grinder": "timemore-c3",
+  "method": "pour_over",
+  "to": "24",
+  "from": "11"
+ },
+ {
+  "grinder": "timemore-c3",
+  "method": "aeropress",
+  "to": "25",
+  "from": "9"
+ },
+ {
+  "grinder": "timemore-c3",
+  "method": "french_press",
+  "to": "25",
+  "from": "19"
+ },
+ {
+  "grinder": "timemore-c3-esp-pro",
+  "method": "espresso",
+  "to": "1.1.0",
+  "from": "0.5.2"
+ },
+ {
+  "grinder": "timemore-c3-esp-pro",
+  "method": "v60",
+  "to": "2.0.2",
+  "from": "1.2.0"
+ },
+ {
+  "grinder": "timemore-c3-esp-pro",
+  "method": "pour_over",
+  "to": "2.7.1",
+  "from": "1.2.1"
+ },
+ {
+  "grinder": "timemore-c3-esp-pro",
+  "method": "aeropress",
+  "to": "2.8.1",
+  "from": "0.9.2"
+ },
+ {
+  "grinder": "timemore-c3-esp-pro",
+  "method": "french_press",
+  "to": "3.0.0",
+  "from": "2.0.2"
+ },
+ {
+  "grinder": "timemore-c5-pro",
+  "method": "espresso",
+  "to": "6.1",
+  "from": "3.1"
+ },
+ {
+  "grinder": "timemore-c5-pro",
+  "method": "v60",
+  "to": "11.2",
+  "from": "7"
+ },
+ {
+  "grinder": "timemore-c5-pro",
+  "method": "pour_over",
+  "to": "15.1",
+  "from": "7"
+ },
+ {
+  "grinder": "timemore-c5-pro",
+  "method": "aeropress",
+  "to": "16",
+  "from": "5.2"
+ },
+ {
+  "grinder": "timemore-c5-pro",
+  "method": "french_press",
+  "to": "16",
+  "from": "11.2"
+ },
+ {
+  "grinder": "timemore-s3",
+  "method": "v60",
+  "to": "4.2",
+  "from": "0.9"
+ },
+ {
+  "grinder": "timemore-s3",
+  "method": "pour_over",
+  "to": "6.9",
+  "from": "1.0"
+ },
+ {
+  "grinder": "timemore-s3",
+  "method": "french_press",
+  "to": "9.0",
+  "from": "4.2"
+ },
+ {
+  "grinder": "kingrinder-k6",
+  "method": "espresso",
+  "to": "0.45",
+  "from": "0.22"
+ },
+ {
+  "grinder": "kingrinder-k6",
+  "method": "v60",
+  "to": "1.22",
+  "from": "0.48"
+ },
+ {
+  "grinder": "kingrinder-k6",
+  "method": "pour_over",
+  "to": "1.50",
+  "from": "0.49"
+ },
+ {
+  "grinder": "kingrinder-k6",
+  "method": "aeropress",
+  "to": "1.53",
+  "from": "0.38"
+ },
+ {
+  "grinder": "kingrinder-k6",
+  "method": "french_press",
+  "to": "2.34",
+  "from": "1.22"
+ },
+ {
+  "grinder": "kingrinder-p1",
+  "method": "espresso",
+  "to": "35",
+  "from": "17"
+ },
+ {
+  "grinder": "kingrinder-p1",
+  "method": "v60",
+  "to": "65",
+  "from": "38"
+ },
+ {
+  "grinder": "kingrinder-p1",
+  "method": "pour_over",
+  "to": "86",
+  "from": "39"
+ },
+ {
+  "grinder": "kingrinder-p1",
+  "method": "aeropress",
+  "to": "89",
+  "from": "30"
+ },
+ {
+  "grinder": "kingrinder-p1",
+  "method": "french_press",
+  "to": "120",
+  "from": "65"
+ },
+ {
+  "grinder": "hario-skerton-pro",
+  "method": "v60",
+  "to": "3",
+  "from": "2"
+ },
+ {
+  "grinder": "hario-skerton-pro",
+  "method": "pour_over",
+  "to": "5",
+  "from": "2"
+ },
+ {
+  "grinder": "hario-skerton-pro",
+  "method": "french_press",
+  "to": "8",
+  "from": "4"
+ },
+ {
+  "grinder": "hario-mini-mill-plus",
+  "method": "espresso",
+  "to": "3",
+  "from": "1"
+ },
+ {
+  "grinder": "hario-mini-mill-plus",
+  "method": "v60",
+  "to": "8",
+  "from": "5"
+ },
+ {
+  "grinder": "hario-mini-mill-plus",
+  "method": "pour_over",
+  "to": "12",
+  "from": "5"
+ },
+ {
+  "grinder": "hario-mini-mill-plus",
+  "method": "aeropress",
+  "to": "13",
+  "from": "3"
+ },
+ {
+  "grinder": "hario-mini-mill-plus",
+  "method": "french_press",
+  "to": "18",
+  "from": "9"
+ },
+ {
+  "grinder": "porlex-mini-ii",
+  "method": "espresso",
+  "to": "6",
+  "from": "4"
+ },
+ {
+  "grinder": "porlex-mini-ii",
+  "method": "v60",
+  "to": "12",
+  "from": "7"
+ },
+ {
+  "grinder": "porlex-mini-ii",
+  "method": "pour_over",
+  "to": "15",
+  "from": "8"
+ },
+ {
+  "grinder": "porlex-mini-ii",
+  "method": "aeropress",
+  "to": "16",
+  "from": "6"
+ },
+ {
+  "grinder": "porlex-mini-ii",
+  "method": "french_press",
+  "to": "22",
+  "from": "12"
+ },
+ {
+  "grinder": "baratza-encore",
+  "method": "v60",
+  "to": "18",
+  "from": "7"
+ },
+ {
+  "grinder": "baratza-encore",
+  "method": "pour_over",
+  "to": "28",
+  "from": "7"
+ },
+ {
+  "grinder": "baratza-encore",
+  "method": "aeropress",
+  "to": "29",
+  "from": "3"
+ },
+ {
+  "grinder": "baratza-encore",
+  "method": "french_press",
+  "to": "40",
+  "from": "19"
+ },
+ {
+  "grinder": "baratza-virtuoso-plus",
+  "method": "v60",
+  "to": "20",
+  "from": "8"
+ },
+ {
+  "grinder": "baratza-virtuoso-plus",
+  "method": "pour_over",
+  "to": "29",
+  "from": "9"
+ },
+ {
+  "grinder": "baratza-virtuoso-plus",
+  "method": "aeropress",
+  "to": "30",
+  "from": "5"
+ },
+ {
+  "grinder": "baratza-virtuoso-plus",
+  "method": "french_press",
+  "to": "40",
+  "from": "20"
+ },
+ {
+  "grinder": "fellow-ode-gen-2",
+  "method": "v60",
+  "to": "5.2",
+  "from": "2.2"
+ },
+ {
+  "grinder": "fellow-ode-gen-2",
+  "method": "pour_over",
+  "to": "8.1",
+  "from": "2.2"
+ },
+ {
+  "grinder": "fellow-ode-gen-2",
+  "method": "aeropress",
+  "to": "8.2",
+  "from": "1.2"
+ },
+ {
+  "grinder": "fellow-ode-gen-2",
+  "method": "french_press",
+  "to": "11",
+  "from": "6"
+ },
+ {
+  "grinder": "fellow-opus",
+  "method": "espresso",
+  "to": "2.5",
+  "from": "1"
+ },
+ {
+  "grinder": "fellow-opus",
+  "method": "v60",
+  "to": "6",
+  "from": "3"
+ },
+ {
+  "grinder": "fellow-opus",
+  "method": "pour_over",
+  "to": "8.5",
+  "from": "3"
+ },
+ {
+  "grinder": "fellow-opus",
+  "method": "aeropress",
+  "to": "8.75",
+  "from": "2"
+ },
+ {
+  "grinder": "fellow-opus",
+  "method": "french_press",
+  "to": "11",
+  "from": "6"
+ },
+ {
+  "grinder": "niche-zero",
+  "method": "espresso",
+  "to": "15",
+  "from": "8"
+ },
+ {
+  "grinder": "niche-zero",
+  "method": "v60",
+  "to": "28",
+  "from": "16"
+ },
+ {
+  "grinder": "niche-zero",
+  "method": "pour_over",
+  "to": "38",
+  "from": "17"
+ },
+ {
+  "grinder": "niche-zero",
+  "method": "aeropress",
+  "to": "38",
+  "from": "13"
+ },
+ {
+  "grinder": "niche-zero",
+  "method": "french_press",
+  "to": "57",
+  "from": "28"
+ },
+ {
+  "grinder": "turin-df64",
+  "method": "v60",
+  "to": "53",
+  "from": "23"
+ },
+ {
+  "grinder": "turin-df64",
+  "method": "pour_over",
+  "to": "77",
+  "from": "24"
+ },
+ {
+  "grinder": "turin-df64",
+  "method": "aeropress",
+  "to": "80",
+  "from": "15"
+ },
+ {
+  "grinder": "turin-df64",
+  "method": "french_press",
+  "to": "90",
+  "from": "53"
+ },
+ {
+  "grinder": "sage-smart-grinder-pro",
+  "method": "espresso",
+  "to": "18",
+  "from": "1"
+ },
+ {
+  "grinder": "sage-smart-grinder-pro",
+  "method": "v60",
+  "to": "48",
+  "from": "21"
+ },
+ {
+  "grinder": "sage-smart-grinder-pro",
+  "method": "pour_over",
+  "to": "60",
+  "from": "21"
+ },
+ {
+  "grinder": "sage-smart-grinder-pro",
+  "method": "aeropress",
+  "to": "60",
+  "from": "13"
+ },
+ {
+  "grinder": "wilfa-svart",
+  "method": "v60",
+  "to": "9",
+  "from": "3"
+ },
+ {
+  "grinder": "wilfa-svart",
+  "method": "pour_over",
+  "to": "14",
+  "from": "4"
+ },
+ {
+  "grinder": "wilfa-svart",
+  "method": "aeropress",
+  "to": "14",
+  "from": "2"
+ },
+ {
+  "grinder": "wilfa-svart",
+  "method": "french_press",
+  "to": "18",
+  "from": "10"
+ },
+ {
+  "grinder": "wilfa-uniform",
+  "method": "espresso",
+  "to": "9",
+  "from": "1"
+ },
+ {
+  "grinder": "wilfa-uniform",
+  "method": "v60",
+  "to": "25",
+  "from": "11"
+ },
+ {
+  "grinder": "wilfa-uniform",
+  "method": "pour_over",
+  "to": "36",
+  "from": "11"
+ },
+ {
+  "grinder": "wilfa-uniform",
+  "method": "aeropress",
+  "to": "38",
+  "from": "7"
+ },
+ {
+  "grinder": "wilfa-uniform",
+  "method": "french_press",
+  "to": "41",
+  "from": "25"
+ },
+ {
+  "grinder": "timemore-sculptor-064s",
+  "method": "v60",
+  "to": "9.3",
+  "from": "3.3"
+ },
+ {
+  "grinder": "timemore-sculptor-064s",
+  "method": "pour_over",
+  "to": "13.9",
+  "from": "3.5"
+ },
+ {
+  "grinder": "timemore-sculptor-064s",
+  "method": "aeropress",
+  "to": "14.5",
+  "from": "1.7"
+ },
+ {
+  "grinder": "timemore-sculptor-064s",
+  "method": "french_press",
+  "to": "16",
+  "from": "9.1"
+ },
+ {
+  "grinder": "varia-vs3",
+  "method": "espresso",
+  "to": "3.3",
+  "from": "0.2"
+ },
+ {
+  "grinder": "varia-vs3",
+  "method": "v60",
+  "to": "8.4",
+  "from": "3.7"
+ },
+ {
+  "grinder": "varia-vs3",
+  "method": "pour_over",
+  "to": "12.1",
+  "from": "3.9"
+ },
+ {
+  "grinder": "varia-vs3",
+  "method": "aeropress",
+  "to": "12.5",
+  "from": "2.4"
+ },
+ {
+  "grinder": "varia-vs3",
+  "method": "french_press",
+  "to": "18",
+  "from": "8.3"
+ },
+ {
+  "grinder": "oxo-conical-burr",
+  "method": "espresso",
+  "to": "3.2",
+  "from": "1"
+ },
+ {
+  "grinder": "oxo-conical-burr",
+  "method": "v60",
+  "to": "8.2",
+  "from": "4.1"
+ },
+ {
+  "grinder": "oxo-conical-burr",
+  "method": "pour_over",
+  "to": "12.1",
+  "from": "4.1"
+ },
+ {
+  "grinder": "oxo-conical-burr",
+  "method": "aeropress",
+  "to": "12.2",
+  "from": "3"
+ },
+ {
+  "grinder": "oxo-conical-burr",
+  "method": "french_press",
+  "to": "15",
+  "from": "8.2"
+ },
+ {
+  "grinder": "baratza-sette-270",
+  "method": "espresso",
+  "to": "7",
+  "from": "1"
+ },
+ {
+  "grinder": "baratza-sette-270",
+  "method": "v60",
+  "to": "20",
+  "from": "9"
+ },
+ {
+  "grinder": "baratza-sette-270",
+  "method": "pour_over",
+  "to": "30",
+  "from": "9"
+ },
+ {
+  "grinder": "baratza-sette-270",
+  "method": "aeropress",
+  "to": "31",
+  "from": "5"
+ },
+ {
+  "grinder": "baratza-sette-270",
+  "method": "french_press",
+  "to": "31",
+  "from": "21"
+ },
+ {
+  "grinder": "mahlkonig-x54",
+  "method": "espresso",
+  "to": "8",
+  "from": "1"
+ },
+ {
+  "grinder": "mahlkonig-x54",
+  "method": "v60",
+  "to": "24",
+  "from": "9.5"
+ },
+ {
+  "grinder": "mahlkonig-x54",
+  "method": "pour_over",
+  "to": "35",
+  "from": "10"
+ },
+ {
+  "grinder": "mahlkonig-x54",
+  "method": "aeropress",
+  "to": "35",
+  "from": "5"
+ },
+ {
+  "grinder": "mahlkonig-x54",
+  "method": "french_press",
+  "to": "35",
+  "from": "24"
+ }
+]
