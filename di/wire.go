@@ -13,6 +13,7 @@ import (
 	mcpServer "github.com/gllm-dev/molinets/internal/adapters/handlers/mcp"
 	conversionHandler "github.com/gllm-dev/molinets/internal/adapters/handlers/mcp/conversion"
 	grinderHandler "github.com/gllm-dev/molinets/internal/adapters/handlers/mcp/grinder"
+	stdioServer "github.com/gllm-dev/molinets/internal/adapters/handlers/stdio"
 	"github.com/gllm-dev/molinets/internal/adapters/repositories/embedded/grindersrepo"
 	"github.com/gllm-dev/molinets/internal/adapters/repositories/embedded/methodsrepo"
 	conversionApp "github.com/gllm-dev/molinets/internal/applications/conversion"
@@ -46,6 +47,16 @@ func InitializeHTTPServer(ctx context.Context) (*httpServer.Server, error) {
 		healthzhdl.New,
 		httpServer.LoadServerConfig,
 		httpServer.NewServer,
+	)
+	return nil, nil
+}
+
+func InitializeStdioServer(ctx context.Context) (*stdioServer.Server, error) {
+	wire.Build(
+		repositoriesSet,
+		applicationsSet,
+		mcpSet,
+		stdioServer.NewServer,
 	)
 	return nil, nil
 }

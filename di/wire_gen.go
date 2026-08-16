@@ -13,6 +13,7 @@ import (
 	"github.com/gllm-dev/molinets/internal/adapters/handlers/mcp"
 	conversion2 "github.com/gllm-dev/molinets/internal/adapters/handlers/mcp/conversion"
 	grinder2 "github.com/gllm-dev/molinets/internal/adapters/handlers/mcp/grinder"
+	"github.com/gllm-dev/molinets/internal/adapters/handlers/stdio"
 	"github.com/gllm-dev/molinets/internal/adapters/repositories/embedded/grindersrepo"
 	"github.com/gllm-dev/molinets/internal/adapters/repositories/embedded/methodsrepo"
 	"github.com/gllm-dev/molinets/internal/applications/conversion"
@@ -44,6 +45,24 @@ func InitializeHTTPServer(ctx context.Context) (*http.Server, error) {
 	healthzhdlHandler := healthzhdl.New()
 	httpServer := http.NewServer(serverConfig, server, healthzhdlHandler)
 	return httpServer, nil
+}
+
+func InitializeStdioServer(ctx context.Context) (*stdio.Server, error) {
+	repository, err := grindersrepo.New()
+	if err != nil {
+		return nil, err
+	}
+	application := grinder.New(repository)
+	handler := grinder2.New(application)
+	methodsrepoRepository, err := methodsrepo.New()
+	if err != nil {
+		return nil, err
+	}
+	conversionApplication := conversion.New(application, methodsrepoRepository)
+	conversionHandler := conversion2.New(conversionApplication)
+	server := mcp.NewServer(handler, conversionHandler)
+	stdioServer := stdio.NewServer(server)
+	return stdioServer, nil
 }
 
 // wire.go:

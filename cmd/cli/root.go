@@ -19,6 +19,7 @@ func NewCmdRoot() *cobra.Command {
 	cmd.PersistentFlags().String("log-level", "info", "log level: debug, info, warn or error")
 
 	cmd.AddCommand(NewCmdHTTP())
+	cmd.AddCommand(NewCmdStdio())
 
 	return cmd
 }
